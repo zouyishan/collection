@@ -1,0 +1,9 @@
+cmake-build-debug
+
+.gitattributes
+
+LICENSE
+
+CMakeLists.txt
+
+.idea
